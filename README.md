@@ -1,10 +1,14 @@
 ---
 title: README
 date created: 2024-08-04T22:59:14+10:00
-date modified: 2024-08-05T11:40:46+10:00
+date modified: 2024-08-13T14:54:44+10:00
 ---
 
 # README
+
+- [[Tests]]
+- [[User Interface]]
+- [[create_from_csv]]
 
 ## Class Diagram
 
